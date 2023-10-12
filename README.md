@@ -10,7 +10,7 @@ I created this home lab with open-sourced software to showcase my knowledge wit
 <h2>Utilities Used</h2>
 
 - <b>Akamai - formerly Linode</b>
-- <img src="https://imgur.com/a/WD4jXdK" height="100%" width="100%" alt="Akamai"/>
+- <img src="https://imgur.com/bk8SsMb" height="100%" width="100%" alt="Akamai"/>
 - <b>Linux - Ubuntu</b>
 - <img src="https://imgur.com/a/x90YOxR" height="100%" width="100%" alt="Linux -Ubuntu"/>
 - <b>Wazuh</b>
